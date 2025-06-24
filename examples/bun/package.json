@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "@trpc/client": "npm:@trpc/client",
-    "@trpc/server": "npm:@trpc/server"
+    "@trpc/server": "npm:@trpc/server",
+    "zod": "^3.25.67"
   },
   "devDependencies": {
     "@types/bun": "^1.1.12",
